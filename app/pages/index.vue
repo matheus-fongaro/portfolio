@@ -14,10 +14,10 @@
                         projetos elétricos e hidrossanitários 100% compatibilizados em BIM.
                     </p>
                     <div class="flex flex-col sm:flex-row gap-4 justify-center md:justify-start">
-                        <NuxtLink target="contato"
+                       <NuxtLink to="#contato"
                             class="bg-eng-light text-eng-dark px-8 py-4 rounded-md font-bold hover:bg-white transition-all transform hover:-translate-y-1 shadow-lg text-center">
                             Discutir uma Parceria</NuxtLink>
-                        <NuxtLink target="portfolio"
+                       <NuxtLink to="#portfolio"
                             class="bg-transparent border border-eng-light text-eng-light px-8 py-4 rounded-md font-bold hover:bg-eng-light hover:text-eng-dark transition-all text-center">
                             Ver Trabalhos</NuxtLink>
                     </div>
