@@ -1,6 +1,13 @@
+<script setup lang="ts">
+useSeoMeta({
+  title: 'Matheus Fongaro | Engenharia',
+  description: 'Portfólio de Matheus Fongaro, Engenheiro Civil.',
+})
+</script>
+
 <template>
-  <div>
-    <NuxtRouteAnnouncer />
-    <NuxtWelcome />
-  </div>
+  <NuxtRouteAnnouncer />
+  <NuxtLayout>
+    <NuxtPage />
+  </NuxtLayout>
 </template>
