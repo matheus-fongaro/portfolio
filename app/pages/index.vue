@@ -9,8 +9,7 @@
                     <h1 class="text-4xl md:text-5xl lg:text-6xl font-bold leading-tight mb-6">Escale seu escritório
                         terceirizando <span class="text-eng-light">projetos complementares</span>.</h1>
                     <p class="text-gray-300 text-lg md:text-xl mb-8 max-w-2xl mx-auto md:mx-0">
-                        Aumente sua capacidade de entrega enquanto cuidamos de todo o desenvolvimento técnico.
-                        Entregamos
+                       Aumente sua capacidade de entrega enquanto cuido de todo o desenvolvimento técnico. Entrego
                         projetos elétricos e hidrossanitários 100% compatibilizados em BIM.
                     </p>
                     <div class="flex flex-col sm:flex-row gap-4 justify-center md:justify-start">
