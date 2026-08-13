@@ -32,8 +32,7 @@
                         <div
                             class="absolute inset-0 border-2 border-eng-light opacity-50 rounded-lg transform -rotate-3">
                         </div>
-                        <NuxtImg src="/Modelo 3d.png"
-                            alt="Representação BIM"
+                       <NuxtImg src="/Modelo 3d.png" alt="Representação BIM"
                             class="rounded-lg shadow-2xl relative z-10 object-cover w-full h-full border border-eng-accent" />
                     </div>
                 </div>
@@ -79,9 +78,8 @@
                 <SectionTitle title="Estudos de Caso & Entregas"
                     description="Exemplos reais de como a engenharia bem aplicada protege o projeto arquitetônico e otimiza a obra." />
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-10">
-                    <PortfolioCard
-                        image="/hidro.png"
-                        tag="Hidrossanitário" title="Residência Unifamiliar - Detalhamento Isométrico">
+                   <PortfolioCard image="/hidro.png" tag="Hidrossanitário"
+                        title="Residência Unifamiliar - Detalhamento Isométrico">
                         <p class="text-gray-600 mb-4 text-sm line-clamp-3">
                             <strong class="text-eng-dark">Desafio:</strong> Suíte e área de lavanderia em um espaço
                             amplo<br>
@@ -89,8 +87,7 @@
                             e entrega de vistas isométricas detalhadas para o encanador.
                         </p>
                     </PortfolioCard>
-                    <PortfolioCard image="/eletrico.png"
-                        tag="Elétrico" title="Projeto Elétrico Inteligente">
+                   <PortfolioCard image="/eletrico.png" tag="Elétrico" title="Projeto Elétrico Inteligente">
                         <p class="text-gray-600 mb-4 text-sm line-clamp-3">
                             <strong class="text-eng-dark">Desafio:</strong> Adequação do projeto elétrico à demandas
                             específicas de equipamentos do cliente, incluindo circuitos para refrigeração.<br>
@@ -98,8 +95,7 @@
                             futura calculada.
                         </p>
                     </PortfolioCard>
-                    <PortfolioCard image="render.png"
-                        tag="Render & BIM" title="Apresentação Fotorrealista para Venda">
+                   <PortfolioCard image="render.png" tag="Render & BIM" title="Apresentação Fotorrealista para Venda">
                         <p class="text-gray-600 mb-4 text-sm line-clamp-3">
                             <strong class="text-eng-dark">Desafio:</strong> Renderização de imagens de alto impacto para
                             apresentação.<br>
@@ -108,8 +104,8 @@
                             de texturas e iluminação realista. Aprovação de primeira.
                         </p>
                     </PortfolioCard>
-                    <PortfolioCard image="clash.png"
-                        tag="Compatibilização" title="Compatibilização e Prevenção de Clashes">
+                   <PortfolioCard image="clash.png" tag="Compatibilização"
+                        title="Compatibilização e Prevenção de Clashes">
                         <p class="text-gray-600 mb-4 text-sm line-clamp-3">
                             <strong class="text-eng-dark">O Valor do BIM:</strong> Identificação virtual de um tubo de
                             esgoto de 100mm que atravessaria uma viga principal. O problema foi resolvido no modelo 3D
@@ -126,8 +122,7 @@
                     <Reveal class="md:w-1/2">
                         <div
                             class="relative w-64 h-64 mx-auto md:mx-0 rounded-full border-4 border-eng-light overflow-hidden shadow-2xl">
-                            <NuxtImg src="/selfie.png"
-                                class="w-full h-full object-cover" />
+                           <NuxtImg src="/selfie.png" class="w-full h-full object-cover" />
                         </div>
                     </Reveal>
                     <Reveal class="md:w-1/2 text-center md:text-left delay-100">
@@ -142,8 +137,8 @@
                             Meu foco não é competir com profissionais da construção civil, mas sim ser a
                             <strong>retaguarda
                                 técnica</strong>.
-                            Entendo a fundo os softwares mais modernos do mercado (Revit, D5 Render) para garantir que
-                            sua
+                           Entendo a fundo os softwares mais modernos do mercado, as normas vigentes e as melhores
+                            práticas para garantir que sua
                             concepção arquitetônica não tenha problemas na hora de ser construída.
                         </p>
                         <div class="grid grid-cols-2 gap-4 text-sm font-semibold">
